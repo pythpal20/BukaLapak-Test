@@ -1,0 +1,6 @@
+public static void Main(string[] args)
+        {
+            int a = 100 + 3 * 5 - 10/5;
+            Console.WriteLine(a);
+ 
+Output of this code is 113
